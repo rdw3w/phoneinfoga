@@ -1,0 +1,7 @@
+flask==3.0.3
+flask-cors==4.0.1
+flask-limiter==3.7.0
+phonenumbers==8.13.52
+requests==2.31.0
+beautifulsoup4==4.12.3
+html5lib==1.1
